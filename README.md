@@ -1,16 +1,16 @@
 # 💫 About Me
 
-👋 Hi, I'm **[Biruk Solomon]** — a **[BackEnd and DevOps Engineer]** student passionate about building intelligent systems and solving challenging problems.
+👋 Hi, I'm **Biruk Solomon**, a passionate **BackEnd and DevOps Engineer** student. I love building intelligent systems and tackling challenging problems.
 
-🧠 I'm interested in **BackEnd Development**, **Mobile Application**, and **CI/CD**.
+🧠 I'm really into **BackEnd Development**, **Mobile Application** development, and **CI/CD**.
 
-🌱 Currently exploring **DevOps**, **scalable backend systems**, and **mobile application development**.
+🌱 Right now, I’m diving deep into **DevOps**, **scalable backend systems**, and **mobile app development**.
 
-🔭 I'm working on **Backend Development** and sharpening my DevOps skills on **CI/CD , Containerization, Orchestration, IaC , Cloud Providers**.
+🔭 Currently sharpening my skills in **Backend Development** and getting better with **CI/CD**, **Containerization**, **Orchestration**, **IaC**, and working with **Cloud Providers**.
 
-📫 Reach me at [biruksolomonmoges@gmail.com](mailto:biruksolomonmoges@gmail.com)
+📫 Feel free to reach out: [biruksolomonmoges@gmail.com](mailto:biruksolomonmoges@gmail.com)
 
-📄 View my Resume [here](#) 
+📄 Check out my resume [here](#).
 
 ---
 
@@ -26,54 +26,51 @@
 # 💻 Tech Stack
 
 ## 🚀 Languages
-- Java
-- Python
-- Golang
-- C++
-
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 ## 🌐 Frontend & Web
-- HTML
-- CSS
-- React.js
-- Node.js
-- Next.js
+- ![HTML](https://img.shields.io/badge/-HTML-FF5733?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
 ## 🧠 Backend & API
-- SpringBoot
-- Gin
-- Express.js
-- FastAPI
+- ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+- ![Gin](https://img.shields.io/badge/-Gin-00A86B?logo=go&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 
 ## 📱 Mobile Development
-- Flutter
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 
 ## 🧰 Tools & DevOps
-- Docker
-- Kubernetes
-- Git
-- Jenkins
-- Terraform
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 
-
-
-## 🗄️ Databases and Cache 
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
+## 🗄️ Databases and Cache
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=biruksolomon&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biruksolomon&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
 # 🎯 Currently Working On
 
-- Enhancing my **ML model deployment skills**.
+- Improving my **ML model deployment skills**.
 - Exploring **scalable cloud architectures** for real-time ML inference.
 - Contributing to **open-source ML projects**.
 
@@ -81,13 +78,16 @@
 
 # 💻 Projects
 
-- **SmartTech E-Commerce & Maintenance Management System** – SmartTech is an enterprise-grade retail management system that combines e-commerce functionality with professional maintenance services. The platform serves both B2C customers purchasing technology products and B2B maintenance service requests, featuring integrated payment processing through Chapa (Ethiopian payment gateway), multi-tier customer loyalty programs, and comprehensive business analytics..
-    - Technologies used: Java Spring Boot, Mysql, Local Payment gateway/Chapa API ,AWS Config 
-    - [Link to GitHub Repo](https://github.com/biruksolomon/SmartTech-BackEnd)
-- **TaskMaster — Multi-User Task Management System ** – TaskMaster is a backend API built with Java Spring Boot 3, designed to manage projects, tasks, teams, and roles efficiently.
-It provides secure authentication, email communication, and real-time collaboration — all built with clean RESTful architecture.
-Ideal for freelance, enterprise, or internal productivity solutions..
-    - Technologies used: Java Spring Boot, PostgreSQL, Java Mail, Spring Security
-    - [Link to GitHub Repo](https://github.com/biruksolomon/taskmaster-springboot)
+### **SmartTech E-Commerce & Maintenance Management System**
+A comprehensive retail management system that combines e-commerce with maintenance services. It includes features like multi-tier customer loyalty programs, integrated payment processing, and business analytics.
+
+- **Technologies used**: Java Spring Boot, MySQL, Chapa API (Ethiopian payment gateway), AWS Config
+- [Link to GitHub Repo](https://github.com/biruksolomon/SmartTech-BackEnd)
+
+### **TaskMaster — Multi-User Task Management System**
+A backend API built with Java Spring Boot, designed for managing projects, tasks, teams, and roles. Features include secure authentication, real-time collaboration, and email communication.
+
+- **Technologies used**: Java Spring Boot, PostgreSQL, Java Mail, Spring Security
+- [Link to GitHub Repo](https://github.com/biruksolomon/taskmaster-springboot)
 
 ---
