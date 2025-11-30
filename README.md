@@ -13,7 +13,7 @@
 🌐 **Website:** [biruk-dev.onrender.com](https://biruk-dev.onrender.com)
 
 
-📄 Resume available [here](#)
+📄 Resume available [here](https://drive.google.com/file/d/1FClBCTw5oSriFsps0Dr2vAnfTbpOcbkn/view)
 
 ---
 
