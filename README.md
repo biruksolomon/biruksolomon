@@ -36,6 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruksolomon&layout=compact&langs_count=8&theme=tokyonight)
+
+
 
 
 ## 🧠 Backend & API  
