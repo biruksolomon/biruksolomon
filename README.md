@@ -20,9 +20,8 @@
 # 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/biruk-solomon-moges-6176b3353/)
-- [Twitter](#)
-- [Portfolio](#)
-- [Blog](#)
+- [Twitter](https://x.com/br__sol)
+
 
 ---
 
@@ -36,8 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruksolomon&layout=compact&langs_count=8&theme=default)
 
 
 
