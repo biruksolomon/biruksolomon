@@ -10,17 +10,9 @@
 
 📫 Contact me anytime: **biruksolomonmoges@gmail.com**
 
-🌐 **Website:** [biruk-dev.onrender.com](https://biruk-dev.onrender.com)
-
 
 📄 Resume available [here](https://drive.google.com/file/d/1FClBCTw5oSriFsps0Dr2vAnfTbpOcbkn/view)
 
----
-
-# 🌐 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/biruk-solomon-moges-6176b3353/)
-- [Twitter](https://x.com/br__sol)
 
 
 ---
