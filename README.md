@@ -17,11 +17,11 @@
 
 ## 💫 About Me
 
-👋 Hey! I’m **Biruk Solomon**, a passionate **Backend & DevOps Engineer** student focused on building **scalable, secure, and cloud-ready systems**.
+👋 Hey! I’m **Biruk Solomon**, a passionate **Backend & DevOps Engineer** student focused on building **scalable, secure, and cloud-native systems**.
 
-🧠 I enjoy designing clean backend architectures, automating infrastructure, and solving real-world engineering challenges.
+🧠 I enjoy designing backend architectures, automating infrastructure, and delivering reliable software through modern DevOps practices.
 
-🌱 Currently deep-diving into **DevOps best practices**, **distributed systems**, and **cloud-native application development**.
+🌱 Currently deep-diving into **DevOps**, **distributed systems**, and **cloud-native application development**.
 
 🔭 Actively working with **CI/CD pipelines**, **Docker**, **Kubernetes**, **Infrastructure as Code**, and **cloud platforms**.
 
@@ -48,7 +48,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/><strong>C++</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br/><strong>Spring</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br/><strong>Spring Boot</strong>
     </td>
   </tr>
 
@@ -66,7 +66,25 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48"/><br/><strong>Terraform</strong>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/><br/><strong>Maven</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/><strong>Linux</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/><br/><strong>Bash</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/><br/><strong>AWS</strong>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/><strong>GitHub</strong>
     </td>
   </tr>
 
@@ -91,10 +109,10 @@
 
 ---
 
-## Skill Overview
+## ⚡Skill Overview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,cpp,spring,docker,kubernetes,jenkins,terraform,git,mysql,postgres,mongodb,redis,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,cpp,spring,docker,kubernetes,jenkins,terraform,aws,linux,bash,git,mysql,postgres,mongodb,redis,flutter&theme=dark" />
 </p>
 
 ---
@@ -114,9 +132,9 @@
 ## 🎯 What I'm Currently Working On
 
 - 🚀 Building **Qx**, a startup-focused e-commerce platform
-- ⚙️ Automating **CI/CD pipelines** and cloud infrastructure
+- ⚙️ Automating **CI/CD pipelines** using Jenkins & GitHub Actions
 - 📦 Developing **containerized backend services**
-- ☁️ Advancing expertise in **Kubernetes, Terraform & Cloud Engineering**
+- ☁️ Managing cloud infrastructure with **AWS & Terraform**
 
 ---
 
@@ -131,7 +149,7 @@ Enterprise-grade platform combining retail operations with maintenance services,
 ---
 
 ### ✅ TaskMaster — Team Task Management API
-Multi-user backend system for managing teams, tasks, permissions, and notifications.
+Scalable backend API for team collaboration and task tracking.
 
 - **Tech:** Spring Boot 3, PostgreSQL, Java Mail, Spring Security  
 - 🔗 Repo: https://github.com/biruksolomon/taskmaster-springboot
