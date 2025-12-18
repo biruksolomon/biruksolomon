@@ -1,63 +1,57 @@
 # 💫 About Me
 
-👋 Hi, I'm **Biruk Solomon**, a passionate **BackEnd and DevOps Engineer** student who enjoys building intelligent systems and solving complex engineering challenges.
+👋 Hi there! I’m **Biruk Solomon**, a motivated **BackEnd & DevOps Engineer** student with a strong passion for building **scalable, reliable, and cloud-ready systems**.
 
-🧠 Strong interests in **BackEnd Engineering**, **Mobile Application Development**, and **CI/CD**.
+🚀 I enjoy designing clean backend architectures, automating workflows, and solving complex engineering challenges with practical solutions.
 
-🌱 Currently learning more about **DevOps**, **scalable distributed systems**, and **mobile app engineering**.
+🧠 My core interests lie in **Backend Engineering**, **DevOps**, **Mobile Application Development**, and **CI/CD pipelines**.
 
-🔭 Actively working on **CI/CD**, **Containerization**, **Orchestration**, **Infrastructure as Code**, and **Cloud platforms**.
+🌱 Currently deep-diving into **DevOps best practices**, **distributed systems**, and **cloud-native application development**.
 
-📫 Contact me anytime: **biruksolomonmoges@gmail.com**
+🔧 Actively working with **CI/CD**, **containerization**, **orchestration**, **infrastructure as code**, and **cloud platforms** to build production-ready systems.
 
+📫 Feel free to reach out: **biruksolomonmoges@gmail.com**
 
-📄 Resume available [here](https://drive.google.com/file/d/1FClBCTw5oSriFsps0Dr2vAnfTbpOcbkn/view)
-
-
+📄 **Resume:** [View here](https://drive.google.com/file/d/1FClBCTw5oSriFsps0Dr2vAnfTbpOcbkn/view)
 
 ---
 
-# 💻 Tech Stack  
+# 💻 Tech Stack
 
-## 🚀 Languages  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+## 🚀 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
-
-
-
-
-
-## 🧠 Backend & API  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
+## 🧠 Backend & APIs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
 </p>
 
-## 📱 Mobile Development  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+## 📱 Mobile Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
 </p>
 
-## 🧰 DevOps & Tools  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+## 🧰 DevOps & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
 </p>
 
-## 🗄️ Databases & Cache  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+## 🗄️ Databases & Cache
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
 </p>
 
 ---
@@ -70,27 +64,26 @@
 
 # 🎯 Currently Working On
 
-- Leading the development of my own startup **Qx**, an innovative e-commerce platform focused on delivering a modern, efficient, and scalable online shopping experience.
-- Collaborating with a team to build and maintain **enterprise-level software solutions**, ensuring high performance, reliability, and clean engineering practices.
-- Continuing to refine my expertise in **backend engineering**, **DevOps**, and **cloud-native development** to support large-scale systems.
-
-
----
-
-# 💻 Projects
-
-### **SmartTech — E-Commerce & Maintenance Platform**  
-Enterprise-grade platform combining retail operations with maintenance service management. Includes loyalty systems, payment integration, analytics, and more.
-
-- **Tech:** Java Spring Boot, MySQL, Chapa API, AWS Config  
-- 🔗 Repo: https://github.com/biruksolomon/SmartTech-BackEnd
+- 🚀 Leading the development of **Qx**, a startup-level e-commerce platform focused on scalability, performance, and modern user experience.
+- 🤝 Collaborating on **enterprise-grade software solutions**, emphasizing reliability, clean architecture, and maintainable code.
+- 📈 Continuously sharpening skills in **backend engineering**, **DevOps automation**, and **cloud-native development**.
 
 ---
 
-### **TaskMaster — Team Task Management API**  
-Multi-user backend system for managing projects, teams, tasks, permissions, and email notifications using Spring Boot.
+# 💻 Featured Projects
 
-- **Tech:** Spring Boot 3, PostgreSQL, Java Mail, Spring Security  
-- 🔗 Repo: https://github.com/biruksolomon/taskmaster-springboot
+### 🛒 **SmartTech — E-Commerce & Maintenance Platform**
+An enterprise-grade platform combining retail operations with maintenance service management, including payments, loyalty systems, and analytics.
+
+- **Tech Stack:** Java Spring Boot, MySQL, Chapa API, AWS Config  
+- 🔗 **Repository:** https://github.com/biruksolomon/SmartTech-BackEnd
+
+---
+
+### ✅ **TaskMaster — Team Task Management API**
+A multi-user backend system for managing projects, teams, tasks, permissions, and email notifications.
+
+- **Tech Stack:** Spring Boot 3, PostgreSQL, Java Mail, Spring Security  
+- 🔗 **Repository:** https://github.com/biruksolomon/taskmaster-springboot
 
 ---
