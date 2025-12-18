@@ -91,7 +91,7 @@
 
 ---
 
-## ⚡ Animated Skill Overview
+## Skill Overview
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,go,cpp,spring,docker,kubernetes,jenkins,terraform,git,mysql,postgres,mongodb,redis,flutter&theme=dark" />
