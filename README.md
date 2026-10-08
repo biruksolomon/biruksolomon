@@ -77,24 +77,11 @@ I like owning a product end to end: the API, the mobile app, and the pipeline th
 | Project | What it is | Stack |
 |---|---|---|
 | 📱 [**Besot**](https://play.google.com/store/apps/details?id=com.besot.app) | Social / anonymous confession app, **live on Google Play** | Flutter · Spring Boot |
-| 🏗️ [**spring-cloud-ecommerce**](https://github.com/biruksolomon/spring-cloud-ecommerce) | Cloud-native e-commerce backend as microservices: API gateway, service discovery, auth, product, order, payment and notification services | Java · Spring Boot · Spring Cloud |
+| 🏗️ [**spring-cloud-ecommerce**](https://github.com/biruksolomon/spring-cloud-ecommerce) | E-commerce backend as microservices: gateway, discovery, auth, product, order, payment and notification | Java · Spring Boot · Spring Cloud |
 | 💸 [**payflow**](https://github.com/biruksolomon/payflow) | Payments backend with a **GitHub Actions CI pipeline** and **Docker** | Spring Boot · Docker · GitHub Actions |
 | 🤝 [**ekub-backend**](https://github.com/biruksolomon/ekub-backend) | Backend for an Ekub (rotating savings) app, **in progress** with a Flutter client | FastAPI · Python |
 | 📲 [**smarttech-mobile**](https://github.com/biruksolomon/smarttech-mobile) | Flutter client built with **clean architecture** | Flutter · Dart |
-| 🧰 [**springboot-toolkit**](https://github.com/biruksolomon/springboot-toolkit) | Production-ready Spring Boot starters: auth (JWT / OAuth2 / RBAC), WebSocket, notifications, file storage | Java · Maven |
 | 🤖 [**n8n-telegram-tech-poster**](https://github.com/biruksolomon/n8n-telegram-tech-poster) | n8n workflow that auto-posts new tech news to a Telegram channel | n8n · Docker · Telegram |
-| 🎓 [**devops-course-telegram-bot**](https://github.com/biruksolomon/devops-course-telegram-bot) | Telegram bot that delivers a DevOps course through n8n | n8n · Telegram |
-| ☁️ [**spring-boot-cloudflare-r2-file-service**](https://github.com/biruksolomon/spring-boot-cloudflare-r2-file-service) | Secure file storage with public and private buckets and role-based access | Spring Boot · Cloudflare R2 |
-| 🛒 [**SmartTech-BackEnd**](https://github.com/biruksolomon/SmartTech-BackEnd) | Retail management system combining e-commerce with maintenance services, Chapa payments | Spring Boot · MySQL |
-
-### 🧭 Architecture: `spring-cloud-ecommerce`
-
-<p align="center">
-  <a href="https://github.com/biruksolomon/spring-cloud-ecommerce">
-    <!-- Change the file name below to the exact image in the repo's docs/ folder -->
-    <img width="90%" src="https://raw.githubusercontent.com/biruksolomon/spring-cloud-ecommerce/main/docs/architecture.png" alt="spring-cloud-ecommerce architecture diagram" />
-  </a>
-</p>
 
 ---
 
