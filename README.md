@@ -37,9 +37,10 @@ I'm **Biruk**, a Computer Science and Engineering student at Adama Science and T
 - ☕ **Main stack:** Java and Spring Boot, from secure REST APIs to Spring Cloud microservices
 - 📱 **Mobile:** Flutter apps with clean architecture, backed by my own Spring Boot or FastAPI services
 - 🚀 **Shipped:** [**Besot**](https://play.google.com/store/apps/details?id=com.besot.app), live on Google Play
+- 🚲 **IoT:** [Smart Bike Rental backend](https://github.com/biruksolomon/smart-bike-rental-backend), a Spring Boot API that talks to bike hardware over MQTT, deployed on Render
 - ⚡ **Automation:** n8n workflows and Telegram bots
 - 🛠️ **Reusable code:** [springboot-toolkit](https://github.com/biruksolomon/springboot-toolkit), a set of Spring Boot starter libraries (`io.github.biruksolomon`)
-- 🐳 **Now learning:** DevOps in depth: Docker, CI/CD, Kubernetes and Terraform
+- 🐳 **Now learning:** DevOps in depth: CI/CD, Kubernetes and Terraform
 
 I like owning a product end to end: the API, the mobile app, and the pipeline that ships it.
 
@@ -61,6 +62,8 @@ I like owning a product end to end: the API, the mobile app, and the pipeline th
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,gitlab,git,linux,bash,maven&theme=dark" alt="DevOps and tools" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
 <h3 align="center">Learning Now</h3>
@@ -77,6 +80,7 @@ I like owning a product end to end: the API, the mobile app, and the pipeline th
 | Project | What it is | Stack |
 |---|---|---|
 | 📱 [**Besot**](https://play.google.com/store/apps/details?id=com.besot.app) | Social / anonymous confession app, **live on Google Play** | Flutter · Spring Boot |
+| 🚲 [**smart-bike-rental-backend**](https://github.com/biruksolomon/smart-bike-rental-backend) | IoT bike-rental backend: ride management and real-time bike control over **MQTT (Mosquitto)**. **Live on Render** · [Swagger API docs](https://smart-bike-rental-backend.onrender.com/swagger-ui/index.html) | Spring Boot · MQTT · MySQL · Docker |
 | 🏗️ [**spring-cloud-ecommerce**](https://github.com/biruksolomon/spring-cloud-ecommerce) | E-commerce backend as microservices: gateway, discovery, auth, product, order, payment and notification | Java · Spring Boot · Spring Cloud |
 | 💸 [**payflow**](https://github.com/biruksolomon/payflow) | Payments backend with a **GitHub Actions CI pipeline** and **Docker** | Spring Boot · Docker · GitHub Actions |
 | 🤝 [**ekub-backend**](https://github.com/biruksolomon/ekub-backend) | Backend for an Ekub (rotating savings) app, **in progress** with a Flutter client | FastAPI · Python |
@@ -125,6 +129,7 @@ I take on freelance projects where I can deliver the **backend and the mobile ap
 
 - ✅ Spring Boot or FastAPI REST APIs: authentication, payments, validation
 - ✅ Flutter mobile apps with clean architecture
+- ✅ IoT backends: MQTT device communication, real-time control, ride and telemetry data
 - ✅ Dockerized deployments and CI pipelines
 - ✅ n8n and Telegram automation
 
