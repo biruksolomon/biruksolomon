@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/biruksolomon">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Java+%2B+Spring+Boot+microservices;Flutter+apps+with+clean+architecture;FastAPI+backends+and+n8n+automation;Shipping+real+products+to+Google+Play;Learning+DevOps+from+the+ground+up" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Java+%2B+Spring+Boot+microservices;Flutter+apps+with+clean+architecture;FastAPI+backends+and+n8n+automation;Shipping+real+products+to+Google+Play;Learning+DevOps" alt="Typing animation" />
   </a>
 </p>
 
